@@ -1,2 +1,1 @@
-# piano
-Created a piano for Bad Website Club's bootcamp
+Created a piano for Bad Website Club's bootcamp using [freecodecamp's Responsive Web Design curriculum.](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-responsive-web-design-by-building-a-piano/step-1)
